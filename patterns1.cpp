@@ -19,16 +19,15 @@ int main()
     cin >> n;
     int i = 0;
 
-    while (i < n) //< is used to ensure the range is upto n characters
+    while (i < n) // if i = 1 then use i<=n instead
     {
         int j = 0;
         while (j < n)
         {
-            cout << "*"
-                 << " ";
+            cout << "*" << " ";
             j++;
         }
-        cout << "\n";
+        cout << "\n"; //to move the next line after the last column of 1st row.
         i++;
     }
     return 0;
