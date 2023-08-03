@@ -1,6 +1,7 @@
 //Program to generate pattern 1.     
 //NOTE: FOR PATTERN PROBLEMS 'i' is used as no. of rows and 'j' is used as no. of columns. 
 // Always look for relation between the row and column with the pattern.
+
 /* OUTPUT: Enter a number: 5
 * * * * * 
 * * * * * 
