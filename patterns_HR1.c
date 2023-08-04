@@ -1,7 +1,6 @@
 /*
 HackerRank problem: https://www.hackerrank.com/challenges/printing-pattern-2/problem
 */
-
 /*OUTPUT: 5
 5 5 5 5 5 5 5 5 5 
 5 4 4 4 4 4 4 4 5
