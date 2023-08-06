@@ -12,7 +12,7 @@ HackerRank problem: https://www.hackerrank.com/challenges/printing-pattern-2/pro
 5 4 4 4 4 4 4 4 5
 5 5 5 5 5 5 5 5 5
 */
-
+ 
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
