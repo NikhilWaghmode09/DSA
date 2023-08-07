@@ -104,7 +104,6 @@ using namespace std;
 //     }
 //     return 0;
     
-    
 // }
 double e(int x,int a){   // Time Complexity O(n^2).
     static double p = 1;
