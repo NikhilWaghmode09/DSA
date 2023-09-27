@@ -1,6 +1,6 @@
 //gives sum of n natural numbers using recursion.
-// Sum(n) = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9....(n-1) + n.
-// Therefore, We can write Sum(n) = Sum(n-1) + n. this the recursive defination.
+//Sum(n) = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9....(n-1) + n.
+//Therefore, We can write Sum(n) = Sum(n-1) + n. this the recursive defination.
 #include<iostream>
 using namespace std;
 
